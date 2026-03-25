@@ -71,7 +71,7 @@ The privilege extends to communications made in anticipation of foreseeable disp
 
 ## Conflict Waivers
 
-The Firm does not represent clients in matters brought by or against AI tool providers whose technology was actually used in the client's development process. This includes Anthropic, Google, Microsoft, OpenAI, and any other provider identified in the AI Tool Registry.
+The Firm does not represent clients in matters brought by or against AI tool providers whose technology was actually used in the client's development process. This includes Anthropic, Google, Microsoft, OpenAI, and any other provider identified in the AI Tool Registry. If you sue them or if they sue you, then the record is available to you for sharing with your respective attorneys. 
 
 The Firm expresses no view regarding the division of proceeds, gains, or other spoils as among the victors. The Firm's duty runs with the spoils and not the individual victors.
 
